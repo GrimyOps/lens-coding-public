@@ -252,6 +252,11 @@ Example attribution:
 Lens Coding™ is not a guarantee of correctness or safety.
 Independent validation is required for any real-world deployment.
 
+Disclaimer:
+Lens Coding™ is a reasoning support methodology designed to surface assumptions, constraints, and risk factors.
+It does not provide professional advice, make decisions, or assume responsibility for outcomes.
+Final judgment and accountability rest solely with the human user.
+
 ## Why This License Structure?
 
 Lens Coding™ is designed to improve AI safety through widespread adoption.
