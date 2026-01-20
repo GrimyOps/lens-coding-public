@@ -1,8 +1,7 @@
-# Lens Coding™ Pattern & Trademark License  
-Version 2.0 — January 2026
+# Lens Coding™ Pattern & Trademark License
 
-Copyright © 2026 Justin Mayhew.  
-Developed and published by GrimyOps, LLC.  
+Copyright © Justin Mayhew  
+Developed and published by GrimyOps, LLC  
 All rights reserved.
 
 ---
@@ -52,7 +51,24 @@ Attribution:
 
 ---
 
-## SECTION 2 — TRADEMARK & CLAIMS RESTRICTIONS
+## SECTION 2 — REALITY LENS
+
+**Reality Lens™** refers to a practical implementation inspired by the
+Lens Coding™ methodology that produces structured, constraint-aware
+context artifacts for AI-assisted reasoning.
+
+Reality Lens outputs:
+- Provide informational context only
+- Do not modify AI models
+- Do not automate decisions
+- Do not guarantee correctness, safety, or outcomes
+
+Reality Lens artifacts are subject to the same non-certification,
+non-endorsement, and no-guarantee principles outlined in this license.
+
+---
+
+## SECTION 3 — TRADEMARK & CLAIMS RESTRICTIONS
 
 “Lens Coding™” is a trademark of Justin Mayhew / GrimyOps, LLC.
 
@@ -65,18 +81,14 @@ name, branding, or designation in a manner that implies:
 - Partnership or authorization
 - Safety guarantees
 
-
 ### Prohibited Examples (without written permission)
 
-- "Lens Coding™ Certified"
-- "Lens Coding™ Compliant"
-- "Official Lens Coding™ Implementation"
-- "Approved by Lens Coding™ / GrimyOps"
-- "Powered by Lens Coding™" (implying official partnership)
-
-Note: Descriptive use like "uses Lens Coding principles" or 
-"implements Lens Coding methodology" is permitted as long as it 
-doesn't imply endorsement or certification.
+- “Lens Coding™ Certified”
+- “Lens Coding™ Compliant”
+- “Official Lens Coding™ Implementation”
+- “Approved by Lens Coding™ / GrimyOps”
+- “Powered by Lens Coding™” when used by third parties in a manner
+  implying official partnership or authorization
 
 ### Permitted References
 
@@ -87,11 +99,12 @@ You **may** reference Lens Coding™ descriptively, for example:
 - “Evaluated against Lens Coding™ criteria”
 - “Adapts concepts from the Lens Coding™ framework”
 
-These references must not suggest endorsement or validation.
+These references must not suggest endorsement, validation,
+or certification.
 
 ---
 
-## SECTION 3 — DERIVATIVE WORKS
+## SECTION 4 — DERIVATIVE WORKS & GENERATED OUTPUTS
 
 You may create derivative works or adaptations of the Lens Coding methodology.
 
@@ -100,28 +113,32 @@ However:
 - Modified versions must be clearly identified as independent adaptations
 - Attribution to the original Lens Coding™ framework is required when referenced
 
+Generated outputs (including Reality Lens artifacts, templates, or
+context documents) may be used, modified, and distributed by the user,
+but may not be represented as official Lens Coding™ certified materials.
+
 ---
 
-## SECTION 4 — NO WARRANTY / NO GUARANTEE
+## SECTION 5 — NO WARRANTY / NO GUARANTEE
 
-Lens Coding™ is provided **“AS IS”**, without warranty of any kind, express or
-implied.
+Lens Coding™ is provided **“AS IS”**, without warranty of any kind,
+express or implied.
 
 Lens Coding™:
 - Does **not** guarantee correctness
 - Does **not** guarantee safety
 - Does **not** replace human judgment or professional oversight
 
-Use of Lens Coding™ in safety-critical, medical, legal, financial, or
-infrastructure contexts requires **independent validation** and appropriate
-human authority.
+Use of Lens Coding™ or Reality Lens in safety-critical, medical, legal,
+financial, or infrastructure contexts requires **independent validation**
+and appropriate human authority.
 
 In no event shall Justin Mayhew or GrimyOps, LLC be liable for any damages,
 claims, or losses arising from the use or misuse of this methodology.
 
 ---
 
-## SECTION 5 — OFFICIAL CERTIFICATION & SERVICES
+## SECTION 6 — OFFICIAL CERTIFICATION & SERVICES
 
 GrimyOps, LLC may offer, now or in the future:
 
@@ -138,19 +155,20 @@ No rights to certification or endorsement are granted by this license.
 
 ---
 
-## SECTION 6 — LICENSE SCOPE & MODIFICATIONS
+## SECTION 7 — LICENSE SCOPE & MODIFICATIONS
 
-This license applies to the version of the Lens Coding™ materials obtained
+This license applies to the Lens Coding™ materials obtained
 at the time of use.
 
-Future revisions of this license will not retroactively apply unless
-explicitly agreed in writing.
+Future revisions of this license will not retroactively apply
+unless explicitly agreed in writing.
 
 ---
 
-## SECTION 7 — CONTACT
+## SECTION 8 — CONTACT
 
-For trademark permissions, certification inquiries, or official use:
+For trademark permissions, certification inquiries,
+or official use requests:
 
 📧 grimyops@protonmail.com  
 Subject: Lens Coding™ Trademark or Certification Inquiry
@@ -168,8 +186,14 @@ Subject: Lens Coding™ Trademark or Certification Inquiry
 This license exists to **maximize safety adoption** while preventing
 misleading authority or misuse.
 
+---
 
-Disclaimer:
-Lens Coding™ is a reasoning support methodology designed to surface assumptions, constraints, and risk factors.
-It does not provide professional advice, make decisions, or assume responsibility for outcomes.
+### Disclaimer
+
+Lens Coding™ and Reality Lens™ are reasoning support methodologies designed
+to surface assumptions, constraints, and risk factors.
+
+They do not provide professional advice, make decisions,
+or assume responsibility for outcomes.
+
 Final judgment and accountability rest solely with the human user.
